@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+    justify-content: center;
+}
+
+#label{
+    font-size: 5em;
+    font-family: helvetica;
+}
+
+.buttons{
+    padding: 5px 5px;
+    margin: 5px 5px;
+    font-family: helvetica;
+    text-transform: uppercase;
+    color: white;
+    background-color: rgba(48, 89, 202, 0.737);
+    cursor: pointer;
+    border-radius: 5px;
+    border: 2px solid black;
+}
